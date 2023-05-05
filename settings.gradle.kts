@@ -13,6 +13,7 @@ include("viafabric-mc115")
 include("viafabric-mc116")
 include("viafabric-mc117")
 include("viafabric-mc118")
+include("viafabric-mc1192")
 include("viafabric-mc119")
 
 
