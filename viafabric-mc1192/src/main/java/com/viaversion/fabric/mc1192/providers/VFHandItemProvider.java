@@ -15,7 +15,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.util.registry.Registry;
 import net.minecraft.util.Identifier;
 
-public class VRHandItemProvider extends HandItemProvider {
+public class VFHandItemProvider extends HandItemProvider {
     public Item clientItem = null;
 
     @Override

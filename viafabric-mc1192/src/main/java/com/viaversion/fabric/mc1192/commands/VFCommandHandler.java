@@ -10,7 +10,7 @@ import com.viaversion.viaversion.commands.ViaCommandHandler;
 
 import java.util.concurrent.CompletableFuture;
 
-public class VRCommandHandler extends ViaCommandHandler {
+public class VFCommandHandler extends ViaCommandHandler {
     {
         try {
             registerSubCommand(new LeakDetectSubCommand());
